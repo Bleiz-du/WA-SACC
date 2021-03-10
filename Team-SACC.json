@@ -1189,6 +1189,10 @@
                         {
                          "duration":1000,
                          "tileid":148
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":148
                         }],
                  "id":164
                 }, 
@@ -1200,6 +1204,10 @@
                         }, 
                         {
                          "duration":1000,
+                         "tileid":149
+                        }, 
+                        {
+                         "duration":500,
                          "tileid":149
                         }],
                  "id":165
