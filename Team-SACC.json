@@ -1183,48 +1183,24 @@
                 {
                  "animation":[
                         {
-                         "duration":300,
+                         "duration":1000,
                          "tileid":164
                         }, 
                         {
-                         "duration":300,
-                         "tileid":164
-                        }, 
-                        {
-                         "duration":300,
+                         "duration":1000,
                          "tileid":148
-                        }, 
-                        {
-                         "duration":300,
-                         "tileid":164
-                        }, 
-                        {
-                         "duration":300,
-                         "tileid":164
                         }],
                  "id":164
                 }, 
                 {
                  "animation":[
                         {
-                         "duration":300,
+                         "duration":1000,
                          "tileid":165
                         }, 
                         {
-                         "duration":300,
-                         "tileid":165
-                        }, 
-                        {
-                         "duration":300,
+                         "duration":1000,
                          "tileid":149
-                        }, 
-                        {
-                         "duration":300,
-                         "tileid":165
-                        }, 
-                        {
-                         "duration":300,
-                         "tileid":165
                         }],
                  "id":165
                 }],
