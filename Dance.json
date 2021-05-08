@@ -53,12 +53,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"Tiles\/Corona.mp3"
+                 "value":"tiles\/Corona.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":25,
          "x":0,
          "y":0
@@ -71,12 +71,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"Tiles\/PatrickH.mp3"
+                 "value":"tiles\/PatrickH.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":25,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
          "name":"Floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":25,
          "x":0,
          "y":0
