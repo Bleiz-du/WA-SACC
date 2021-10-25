@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":44,
  "infinite":false,
  "layers":[
@@ -89,7 +96,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"Map puli\u00e9es\/BaseChip_pipo.png",
+         "image":"BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
